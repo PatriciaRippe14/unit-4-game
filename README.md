@@ -1,2 +1,2 @@
 # unit-4-game
-Crystal Collector Gme
+Crystal Collector Game
